@@ -1,3 +1,5 @@
+# Este Repositório faz parte de um treinamento realizado pela Alura para o estudo de projetos com o uso de NodeJS e Json-server
+
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
 <hr>
